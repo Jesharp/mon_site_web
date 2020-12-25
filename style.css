@@ -1,24 +1,28 @@
 #top-banner {
   color : rgb(255,255,255);
-    font-size: 30px;
-
+  font-size: 30px;
   background-color: rgba(30,30,30,0.7);
   overflow: auto;
   text-align: center;
 }
 
 #div_sup {
-  color : rgb(123,209,45);
+  color : rgb(193, 206, 79);
   font-size: 1em;
-  background-color: rgba(230,10,20,0.7);
+  background-color: rgba(212, 101, 107, 0.7);
+  overflow: auto;
+}
+
+#div_tab {
+  color : rgb(79, 123, 206);
+  font-size: 1em;
+  background-color: rgba(196, 243, 194, 0.7);
   overflow: auto;
 }
 
 #top-banner-img{
   float:right;
 }
-
-
 
 #menu {
   width: 260px;
@@ -39,7 +43,6 @@
   line-height: 45px;
   z-index: 5;
 }
-
 
 #menu .menu-button > a {
   background-color:rgba(97,97,97,1);
@@ -65,11 +68,9 @@
   margin: 0px 10px -12px -5px;
 }
 
-
 #top-banner, #menu {
   border-color:#616161;
 }
-
 
 #toggle-menu-button:hover {
   color:#757575;
@@ -85,4 +86,10 @@
   margin-top: 40px;
 }
 
+body { 
+  font-family : arial;
+  }
 
+h1 {
+  color: rgb(54, 39, 121);
+}
