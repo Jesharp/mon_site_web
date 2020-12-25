@@ -7,6 +7,13 @@
   text-align: center;
 }
 
+#div_sup {
+  color : rgb(123,209,45);
+  font-size: 1em;
+  background-color: rgba(230,10,20,0.7);
+  overflow: auto;
+}
+
 #top-banner-img{
   float:right;
 }
