@@ -15,7 +15,6 @@
 
 #div_tab {
   color : rgb(79, 123, 206);
-  font-size: 1em;
   background-color: rgba(196, 243, 194, 0.7);
   overflow: auto;
 }
@@ -91,5 +90,6 @@ body {
   }
 
 h1 {
+  font-size: 0.95em;
   color: rgb(54, 39, 121);
 }
